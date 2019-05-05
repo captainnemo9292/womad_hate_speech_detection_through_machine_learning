@@ -1,2 +1,2 @@
 # Womad Hate Speech Detection through Machine Learning
-![Image description]()
+https://towardsdatascience.com/my-first-machine-learning-project-designing-a-hate-speech-detecting-algorithm-56ab32f10833
